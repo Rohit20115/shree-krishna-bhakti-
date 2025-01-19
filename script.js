@@ -23,10 +23,10 @@ function toggleLanguage() {
 
 const krishnaImage = document.getElementById("krishnaImage");
 const imagePaths = [
-  "./images/krishna-home-image.jpg",
-  "./images/krishna-img2.jpg",
-  "./images/krishna-img3.jpg",
-  "./images/krishna-img4.jpg",
+  "krishna-home-image.jpg",
+  "krishna-img2.jpg",
+  "krishna-img3.jpg",
+  "krishna-img4.jpg",
 ];
 let currentImageIndex = 0;
 
