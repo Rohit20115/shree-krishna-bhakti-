@@ -2,6 +2,9 @@
 
 This website is based on devotional content. Many resources and references are there to motivate you towards Krishna and get you connect with His devotion.
 
+# visit site 
+link -  https://rohit20115.github.io/shree-krishna-bhakti-/
+
 <img width="952" alt="6" src="https://github.com/vishal02527/My-Strength-Shree-Krishna/blob/main/images/Screenshot%202024-09-21%20192845.png">
 
 
